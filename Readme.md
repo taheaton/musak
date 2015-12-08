@@ -1,6 +1,6 @@
 ## Welcome to My Project
 
-> I am your Readme.md file, you should probably update me.
+> This is a Music Player which accesses the soundcloud database through a user search, and returns music that is playable.
 
 
 ## Usage
